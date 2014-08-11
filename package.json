@@ -1,0 +1,25 @@
+{
+  "name": "yc-path2reg",
+  "version": "0.0.1",
+  "description": "yc tool for changing path string such as '/user/:name' to regular expression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/yc-path2reg.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "yc",
+    "url",
+    "path2reg"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/yc-path2reg/issues"
+  }
+}
